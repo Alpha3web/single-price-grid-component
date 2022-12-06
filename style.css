@@ -103,3 +103,11 @@
   h2{
     color: hsl(179, 62%, 43%);
   }
+  #btn-a{
+    text-decoration: none;
+  }
+  ul{
+    list-style-type: none;
+    padding-left: 2px;
+  }
+  
